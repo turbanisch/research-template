@@ -1,3 +1,12 @@
+# derived data
+_targets
+reports/*.html
+reports/*.docx
+reports/*.pdf
+
+# MacOS system files
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
