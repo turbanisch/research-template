@@ -1,6 +1,11 @@
 # Research Template
 
-This is a template for a research project that uses [targets](https://github.com/ropensci/targets) as a pipeline toolkit. It comes with a `.gitignore` file optimized for the pipeline script in `_targets.R` and works best with the following folder structure:
+This is a template for a research project that uses [targets](https://github.com/ropensci/targets) as a pipeline toolkit. It comes with a `.gitignore` file optimized for the pipeline script in `_targets.R`.
+
+Before you start working, please make the following (optional) adjustments:
+
+- rename the R project file
+- add the folders as described below
 
 ## Folder structure
 
